@@ -1,5 +1,4 @@
 # About-Me-
 
-#Resume 
-
-#Cover Letter
+1. Resume
+2. CV 

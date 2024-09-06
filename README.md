@@ -1,4 +1,5 @@
 # About-Me-
 
-[ Resume ]
-[ CV ]
+# Resume 
+
+# CV
